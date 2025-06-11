@@ -1,4 +1,4 @@
-# NOT Back Contest
+## NOT Contest Backend by Syrnik Interactive
 
 This service provides API for checking out and purchasing items for [Not Back Contest](https://contest.notco.in/dev-backend)
 
