@@ -43,7 +43,7 @@ or
 ```
 go run cmd/server/main.go
 ```
-The server will be accessible on port `:8000`.
+The server will be accessible on port `:8080`.
 
 
 ---
